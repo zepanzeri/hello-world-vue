@@ -1,24 +1,5 @@
-# hello-world
+#en
+hello world" app using vue. My first ever project using vue. It lists some books, add new ones and deletes as well.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#ptbr
+Primeiro app utilizando vue. A pagina lista nomes de livros, podendo adcionar novos ou deletar da lista.
